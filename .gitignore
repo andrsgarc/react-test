@@ -1,0 +1,7 @@
+/dist/
+/node_modules/
+*.log
+TODO
+stats.json
+.idea/
+coverage
